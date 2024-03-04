@@ -16,9 +16,9 @@ Welcome to Aahar, a delightful food-ordering app where you can explore and order
 Make sure you have the following prerequisites installed:
 
 - [Node.js](https://nodejs.org/): Ensure you have Node.js installed on your machine.
-- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
-- [Vite](https://vitejs.dev/): A fast frontend build tool.
 - [Tailwind CSS](https://tailwindcss.com/): A utility-first CSS framework.
+- [React](https://reactjs.org/): A JavaScript library for building user interfaces.
+- [Vite](https://vitejs.dev/): A fast frontend build tool. (OPTIONAL)
 
 ## Setting Up the Environment
 
