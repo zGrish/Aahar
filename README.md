@@ -1,8 +1,6 @@
 # Aahar | Eat outside the box!
 
-# Aahar | Eat outside the box! - Frontend
-
-Welcome to Aahar, a delightful food ordering app where you can explore and order delicious meals. Eat outside the box and satisfy your cravings with Aahar!
+Welcome to Aahar, a delightful food-ordering app where you can explore and order delicious meals. Eat outside the box and satisfy your cravings with Aahar!
 
 ## Technologies Used
 
@@ -15,7 +13,7 @@ Welcome to Aahar, a delightful food ordering app where you can explore and order
 
 ## Prerequisites
 
-Before you start hacking on Aahar, make sure you have the following prerequisites installed:
+Make sure you have the following prerequisites installed:
 
 - [Node.js](https://nodejs.org/): Ensure you have Node.js installed on your machine.
 - [React](https://reactjs.org/): A JavaScript library for building user interfaces.
